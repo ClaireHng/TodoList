@@ -1,11 +1,11 @@
 Par Claire HUANG le 18 Juin 2020
 
-#Bonjour !
+# Bonjour !
 
-#Quelques guidelines concernant ce projet :
+# Quelques guidelines concernant ce projet :
 
 
-##Fonctionnalités :
+## Fonctionnalités :
 * Possibilité d'ajouter une tâche ( titre, détails, pastille de couleur)
 * Possibilité de changer le status d'une tâche (Status terminé)
 * Possibilité de changer le status d'une tâche (Status supprimé)
@@ -13,9 +13,9 @@ Par Claire HUANG le 18 Juin 2020
 * Possibilité de consulter les détails en cliquant sur une tâche
 * 3 View - View avec la liste, View avec l'ajout de tâche, View pour la consultation de tâche
 
-##UI:
+## UI:
 * Logo et SplashScreen
 * Utilisation de UIKit, configuration Storyboard et programmatiquement
 
-##Architecture :
+## Architecture :
 * Architecture MVC
